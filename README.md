@@ -5,13 +5,6 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-📊 **This Week I Spent My Time On** 
-
-```text
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -24,5 +17,5 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/07/2025 09:01:34 UTC
+ Last Updated on 05/07/2025 09:03:40 UTC
 <!--END_SECTION:waka-->
