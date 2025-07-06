@@ -1,6 +1,8 @@
 ## GODY DEVELOPER, Hi 👋
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-35%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-129-blue)
 
 **I Mostly Code in TypeScript** 
@@ -15,5 +17,5 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/07/2025 18:46:04 UTC
+ Last Updated on 06/07/2025 18:47:12 UTC
 <!--END_SECTION:waka-->
